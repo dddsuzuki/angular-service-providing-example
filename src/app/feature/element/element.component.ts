@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { RootService } from 'src/app/root.service';
+import { RootService } from '../../root.service';
 import { FeatureService } from '../feature.service';
 import { ElementService } from './element.service';
 
